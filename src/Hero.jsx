@@ -72,8 +72,8 @@ function Hero() {
               EXPLORE WORK <ArrowUpRight size={18} />
             </a>
               <a
-                href="/images/Niresh_Shakya.pdf"
-                download="Niresh_ShakyaCV.pdf"
+                href="/downloads/niresh_shakya.pdf"
+                download="niresh_shakya.pdf"
                 className="flex h-12 items-center gap-2 border border-white/40 px-5 font-mono text-xs uppercase transition hover:border-[#91f77d] hover:text-[#91f77d]"
               >
                 <Download size={18} />
